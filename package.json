@@ -1,0 +1,27 @@
+{
+  "name": "my-node-api",
+  "version": "1.0.0",
+  "description": "ec2 server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarbunny1996/my-node-api.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "sathish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarbunny1996/my-node-api/issues"
+  },
+  "homepage": "https://github.com/kumarbunny1996/my-node-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
